@@ -1,2 +1,2 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-https://github.com/Sonas25
+[Sonas25 github profile] https://github.com/Sonas25
